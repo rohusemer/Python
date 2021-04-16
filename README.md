@@ -1,5 +1,6 @@
 # Python
-## Analizador de plagio
+
+## Analizador de plagio con Interfaz grafica
 Se necesita construir un compilador para que, en primera instancia, poder analizar el código del proyecto y después poder comparar los árboles sintácticos generados. Por lo que:
   1. Se construye un analizador léxico usando la librería ply.lex de Python.
   2. Se construye un analizador sintáctico usando la librería ply.yacc de Python.
